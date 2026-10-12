@@ -1,0 +1,2 @@
+def accueil():
+    print("Accueil")
