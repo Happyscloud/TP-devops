@@ -1,2 +1,2 @@
-def accueil():
-    print("Accueil")
+def connexion():
+    print("Connexion")
